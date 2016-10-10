@@ -1,8 +1,8 @@
 {
   "name": "json2xml",
   "description": "Simple JavaScript Object to XML string converter.",
-  "version": "0.1.2",
-  "homepage": "https://github.com/estheban/node-json2xml",
+  "version": "0.2",
+  "homepage": "https://github.com/michaelfamarques/node-json2xml",
   "author": {
     "name": "Etienne Lachance",
     "email": "et@etiennelachance.com"
@@ -16,19 +16,23 @@
     {
       "name": "Ivo Georgiev",
       "email": "ivo@linvo.org"
+    },
+    {
+      "name": "Michael Fagundes Marques",
+      "email": "michael.famarques@gmail.com"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/estheban/node-json2xml.git"
+    "url": "git://github.com/michaelfamarques/node-json2xml.git"
   },
   "bugs": {
-    "url": "https://github.com/estheban/node-json2xml/issues"
+    "url": "https://github.com/michaelfamarques/node-json2xml/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/estheban/node-json2xml/blob/master/LICENSE-MIT"
+      "url": "https://github.com/michaelfamarques/node-json2xml/blob/master/LICENSE-MIT"
     }
   ],
   "main": "lib/json2xml",
